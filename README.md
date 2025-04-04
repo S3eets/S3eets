@@ -14,15 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-  </td>
-    <td>
-      <img align="right" height="120" src="https://cdn.discordapp.com/emojis/756853807060615250.gif?v=1" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S3eets&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=S3eets&theme=merko&hide_border=false)<br/>
