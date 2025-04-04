@@ -41,5 +41,5 @@
 
 ## 📫 How to Reach Me:
 - 📩 Email: **abdulhamidkhalaf1@gmail.com**
-- 🔗 GitHub: [S3eets](https://github.com/S3eets)
+- 🔗 Linkedin: [abdulhamid-khalaf](https://www.linkedin.com/in/abdulhamid-khalaf/)
 - 💬 Discord: **s3eet**
