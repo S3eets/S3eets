@@ -1,15 +1,11 @@
 <h1 align="center">Welcome, I'm Abdelhamid</h1>
 
-<p align="center">
-  Computer Science Student · Web Developer · Problem Solver
-</p>
-
 ---
 
 ## About Me
 
 - I’m a Computer Science student at the University of Basrah (Stage 3).
-- I’m passionate about web development, algorithms, and solving real problems through code.
+- I’m passionate about fullstack, algorithms, and solving real problems through code.
 - I enjoy learning new technologies and building useful things.
 - Always open to collaboration and new opportunities.
 
