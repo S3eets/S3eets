@@ -29,11 +29,9 @@
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S3eets&theme=default&hide_border=false" />
-  <br/>
+
   <img src="https://nirzak-streak-stats.vercel.app/?user=S3eets&theme=default&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3eets&theme=default&hide_border=false&layout=compact" />
+  
 </p>
 
 ---
